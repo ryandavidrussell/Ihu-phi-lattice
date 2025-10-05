@@ -1,3 +1,6 @@
+# Implosive Harmonic Unification (IHU) – φ-Lattice Framework
+*Author: Ryan D. Russell (Independent Researcher)*  
+*Preprint DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)*
 phi-lattice-IHU/
 │
 ├── README.md
