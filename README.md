@@ -1,28 +1,24 @@
 # Implosive Harmonic Unification (IHU) – φ-Lattice Framework
 *Author: Ryan D. Russell (Independent Researcher)*  
 *Preprint DOI: [10.5281/zenodo.xxxxxxx](https://doi.org/10.5281/zenodo.xxxxxxx)*
-phi-lattice-IHU/
-│
+ihu-phi-lattice/
 ├── README.md
 ├── LICENSE
-├── ihu_paper.pdf
-├── latex/
-│   ├── main.tex
-│   ├── sections/
-│   │   ├── intro.tex
-│   │   ├── cosmology.tex
-│   │   └── ...
-│   └── references.bib
-├── figures/
-│   ├── bao_residuals.png
-│   ├── gw_ringdown.pdf
-│   └── ...
-├── code/
-│   ├── phi_fit_pipeline.py
-│   ├── bao_analysis.ipynb
-│   └── ...
-└── data/
-    └── phi_band_fit_summary.csv
+├── papers/
+│   ├── ihu_gut/
+│   │   ├── ihu_gut.tex
+│   │   ├── figures/
+│   │   └── phi_lattice_refs.bib
+│   ├── hubble_s8/
+│   │   ├── hubble_s8.tex
+│   │   ├── figures/
+│   │   └── phi_lattice_refs.bib
+│   ├── cosmic_noon/
+│   ├── info_paradox/
+│   └── gx3394/
+└── code/
+    ├── phi_fit_pipeline.py
+    └── analysis_notebooks/
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
 
